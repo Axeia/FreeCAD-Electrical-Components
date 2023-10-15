@@ -9,8 +9,9 @@ https://www.rose-lighting.com/wp-content/uploads/sites/53/2022/07/HD108-Specific
 
 The little 'triangle' notch isn't mentioned in the spec sheet as to how big or deep it is - so I made a guess.
 # Files
-The .FCStd file is to be used with FreeCAD
-The .step file is a colored file with the dimensions in millimeters and imports just fine in KiCAD. If you want to 'reverse' mount the LED, setting the Z-offset to 2.17mm whilst importing the file seems to work rather nicely.
+
+* The .FCStd file is to be used with FreeCAD
+* The .step file is a colored file with the dimensions in millimeters and imports just fine in KiCAD. If you want to 'reverse' mount the LED, setting the Z-offset to 2.17mm whilst importing the file seems to work rather nicely.
 
 ## Unlicense(d)
 Feel free to do whatever you want the files found here.
